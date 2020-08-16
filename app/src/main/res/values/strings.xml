@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MAD</string>
+    <string name="Msg1"> First Name </string>
+    <string name="Msg2"> Last Name </string>
+    <string name="Msg3"> Email </string>
+    <string name="Msg4"> Password </string>
+    <string name="Msg5"> Confirm Password </string>
+    <string name="Msg6"> Username </string>
+    <string name="Msg7"> Password </string>
+    <string name="Msg8"> Name </string>
+    <string name="Msg9"> Email </string>
+</resources>
