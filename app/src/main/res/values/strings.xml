@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">I Do Catering</string>
+    <string name="MainLable1">Your Bill</string>
+    <string name="OderName1">Menu 1</string>
+    <string name="OderName2">Menu 2</string>
+    <string name="Price1">5000.00</string>
+    <string name="Price2">2000.00</string>
+    <string name="Lable1">Total amount to be paid</string>
+    <string name="TotalPrice">7000.00</string>
+    <string name="Button1">Pay Now</string>
+    <string name="FName">First Name</string>
+    <string name="LName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="CDetails">Credit/Debit Card details</string>
+    <string name="CNumber">Card Number</string>
+    <string name="CExpDate">Expiry Date</string>
+    <string name="ccv">CCV</string>
+    <string name="MainLabel2">Payment Details</string>
+    <string name="Button2">Confirm</string>
+    <string name="Msg1">Your payment is complete</string>
+    <string name="Msg2">Thank You for using our services</string>
+    <string name="searchRecords">Serach Records</string>
+    <string name="button3">Search</string>
+    <string name="vRecord">View Record</string>
+    <string name="payId">Pay ID</string>
+    <string name="amountPaid">Amount Paid</string>
+    <string name="oderNo">Oder No</string>
+    <string name="orderDate">Date Ordered</string>
+    <string name="Button4">Delete</string>
+    <string name="Label2">Record Deleted</string>
+</resources>
