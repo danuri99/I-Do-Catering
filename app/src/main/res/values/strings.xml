@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="Msg1">Update And Delete Menu</string>
+    <string name="Msg2">Enter Menu number</string>
+    <string name="Msg3">Edit menu</string>
+    <string name="Msg4">Delete menu</string>
+    <string name="Msg5">Enter Food Name</string>
+    <string name="Msg6">Enter Food Price</string>
+    <string name="Msg7">Insert Menu</string>
+    <string name="Msg8">Insert </string>
+    <string name="Msg9">Check Menu</string>
+    <string name="Msg10">Menu Home</string>
+    <string name="Msg11">Menu 1</string>
+    <string name="Msg13">Menu 2</string>
+    <string name="Msg12">Menu 3</string>
+    <string name="Msg14">Main Menu </string>
+
+
+
+</resources>
