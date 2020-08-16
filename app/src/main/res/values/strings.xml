@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MAD Project</string>
+    <string name="Msg1">*You can do your changes up to 3 days prior to required date only</string>
+    <string name="Order1">Order 01</string>
+    <string name="Order2">Order 02</string>
+    <string name="Order3">Order 03</string>
+    <string name="BtnSearch">search</string>
+    <string name="BtnSave_changes">Save Changes</string>
+    <string name="Customer_name">Kasun Silva</string>
+    <string name="Customer_email">silva@gmail.com</string>
+    <string name="Customer_contact_number">0711234567</string>
+    <string name="Customer_address">55,Park Street,Colombo</string>
+    <string name="Customer_plates">150</string>
+    <string name="Customer_date">20/07/2020</string>
+    <string name="Customer_time">11.00 AM</string>
+    <string name="Msg2">You can cancel free of charge up to 2 days prior to required date. Are you sure cancel this order?</string>
+    <string name="Admin_msg">Enter customer name here</string>
+    <string name="Admin_msg2">Search Order Details</string>
+
+
+
+</resources>

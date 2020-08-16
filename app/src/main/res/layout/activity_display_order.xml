@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".displayOrder">
+
+    <TextView
+        android:id="@+id/tvCname7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Customer_time"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.572"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.609" />
+
+    <TextView
+        android:id="@+id/tvCname6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Customer_date"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.538" />
+
+    <TextView
+        android:id="@+id/tvCname5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Customer_plates"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.519"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.47" />
+
+    <TextView
+        android:id="@+id/tvCname4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Customer_address"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.814"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.389" />
+
+    <TextView
+        android:id="@+id/tvCname3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Customer_contact_number"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.608"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.311" />
+
+    <TextView
+        android:id="@+id/tvEmail3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email :"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.264"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.233" />
+
+    <TextView
+        android:id="@+id/tvAddress3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="232dp"
+        android:text="Address:"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.252"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvPlates3"
+        android:layout_width="115dp"
+        android:layout_height="65dp"
+        android:text="Number of plates :"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.29"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.475" />
+
+    <TextView
+        android:id="@+id/tvDate3"
+        android:layout_width="47dp"
+        android:layout_height="28dp"
+        android:text="Date :"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.259"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.545" />
+
+    <TextView
+        android:id="@+id/tvTime3"
+        android:layout_width="52dp"
+        android:layout_height="24dp"
+        android:text="Time :"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.265"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.609" />
+
+    <TextView
+        android:id="@+id/tvConNum3"
+        android:layout_width="101dp"
+        android:layout_height="46dp"
+        android:text="Contact Number :"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.301"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.304" />
+
+    <TextView
+        android:id="@+id/tvCname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Customer_name"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.597"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.148" />
+
+    <TextView
+        android:id="@+id/tvCname2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name :"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.278"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.148" />
+
+    <TextView
+        android:id="@+id/tvCemail"
+        android:layout_width="164dp"
+        android:layout_height="23dp"
+        android:text="@string/Customer_email"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.739"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.232" />
+</androidx.constraintlayout.widget.ConstraintLayout>
